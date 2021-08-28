@@ -1,14 +1,8 @@
-🇧🇷🇵🇹 Português
-
-- 👋 Oi, sou Marcelo Machado, ou como amigos me chamam, Hayashi.
-- 👀 Atualmente estou me dedicando ao desenvolvimento Full Stack.
-- 🌱 Sou estudante de Engenharia de Software.
-- 📫 Entre em contato comigo:
-- Twitter: @hayashilol1
 
 🇺🇸🇬🇧 English
 - 👋 Hi, I'm Marcelo Machado, or as friends call me, Hayashi.
 - 👀 Actually I'm dedicating myself in Full Stack development.
+- 🐙 Ruby, JavaScript and ABAP are my favorites languages.
 - 🌱 I am a student of Software Engineering.
 - 📫 Please contact me:
 - Twitter: @hayashilol1
