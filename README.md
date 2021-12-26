@@ -61,7 +61,7 @@ You can also Connect with me on: </h4>
 
 <p align="left">
   
-  <a href="">
+  <a href="https://github.com/">
     <img alt:"GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
  &emsp;
@@ -104,7 +104,7 @@ You can also Connect with me on: </h4>
 
 <p align="left">
   
-  <a href="https://www.apple.com/macos/big-sur/">
+  <a href="https://www.apple.com/macos/">
     <img alt:"MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
   </a>
  &emsp;
