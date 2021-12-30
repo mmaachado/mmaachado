@@ -19,7 +19,7 @@ You can also Connect with me on: </h4>
 &emsp;
 <a target="_blank" href="https://twitter.com/hayashilol1"><img src="https://img.shields.io/badge/@hayashilol1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://www.youtube.com/channel/UCCpLiRI83WjoYvnEs3Pl_fg"><img src="https://img.shields.io/badge/Marcelo Machado-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></img></a>
+<a target="_blank" href="https://www.youtube.com/channel/UCCpLiRI83WjoYvnEs3Pl_fg"><img src="https://img.shields.io/badge/Dart Side-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></img></a>
 &emsp;
 
 </div>
@@ -166,5 +166,5 @@ You can also Connect with me on: </h4>
 </p>
 <hr/>
                      
-* Credit: [Hayashi](https://github.com/hayashilol1)
-* Last Edited on: 26/11/2021
+* Credit: [Marcelo Machado](https://github.com/hayashilol1)
+* Last Edited on: 30/12/2021
