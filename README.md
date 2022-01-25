@@ -14,12 +14,17 @@ Feel free to clone/fork any projects, raise issues or even submit PRs if you thi
 You can also Connect with me on: </h4>	
 <a target="_blank" href="https://www.linkedin.com/in/marcelo-machado/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 &emsp;
+<a target="_blank" href="https://www.instagram.com/m.maachado/"
+><img src="https://img.shields.io/badge/@m.maachado-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
+&emsp;
 <a target="_blank" href="mailto:mjoelmachadojr@gmail.com"
 ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://twitter.com/hayashilol1"><img src="https://img.shields.io/badge/@hayashilol1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://www.youtube.com/channel/UCCpLiRI83WjoYvnEs3Pl_fg"><img src="https://img.shields.io/badge/Dart Side-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://www.behance.net/mmachadojr"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></img></a>
 &emsp;
 
 </div>
@@ -32,6 +37,11 @@ You can also Connect with me on: </h4>
   
   <a href="https://developer.apple.com/swift/">
     <img alt:"Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+  </a>
+ &emsp;
+  
+  <a href="https://www.ruby-lang.org/en/">
+    <img alt:"Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
   </a>
  &emsp;
 
@@ -147,11 +157,6 @@ You can also Connect with me on: </h4>
 
 <p>
   
-  <a href="https://www.ruby-lang.org/en/">
-    <img alt:"Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
-  </a>
- &emsp;
-  
   <a href="https://rubyonrails.org/">
     <img alt:"Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
   </a>
@@ -162,9 +167,34 @@ You can also Connect with me on: </h4>
     <img alt:"Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   </a>
  &emsp;
+  
+  <a href="https://docs.microsoft.com/en-gb/dotnet/csharp/">
+    <img alt:"C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  </a>
+ &emsp;
+  
+  <a href="https://dart.dev/">
+    <img alt:"Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+  </a>
+ &emsp;
+  
+  <a href="https://flutter.dev/?gclid=CjwKCAiA3L6PBhBvEiwAINlJ9OhGZpU3cOnsynOOP5PBgo7KA3hrVsKh_SrjhslLqGPh68pgs-_TSBoCYwsQAvD_BwE&gclsrc=aw.ds">
+    <img alt:"Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+  </a>
+ &emsp;
+  
+  <a href="https://aws.amazon.com/?nc2=h_lg">
+    <img alt:"AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  </a>
+ &emsp;
+  
+  <a href="https://www.jenkins.io/">
+    <img alt:"Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  </a>
+ &emsp;
 
 </p>
 <hr/>
                      
-* Credit: [Marcelo Machado](https://github.com/hayashilol1)
-* Last Edited on: 30/12/2021
+* Credit: [Marcelo Machado](https://github.com/mmaachado)
+* Last Edited on: 25/01/2022
