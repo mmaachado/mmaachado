@@ -1,17 +1,17 @@
 <div align="center">
   
-  <h1>Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></h1>
+  <h1>hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></h1>
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Swift+Developer;Always%20searching%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=software+engineering+student;frontend+developer;always%20searching%20new%20things&center=true&width=500&height=50"></a>
     
 </p>
 <hr/>
   
 </div>
 <div align="center">
-  <h4>So, you have finally discovered my GitHub profile!<br>
-Feel free to clone/fork any projects, raise issues or even submit PRs if you think something could be better.<br>
-You can also Connect with me on: </h4>	
+  <h4>so, you have finally discovered my GitHub profile!<br>
+feel free to clone/fork any projects, raise issues or even submit PRs if you think something could be better.<br>
+you can also Connect with me on: </h4>	
 <a target="_blank" href="https://www.linkedin.com/in/marcelo-machado/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://www.instagram.com/m.maachado/"
@@ -29,9 +29,9 @@ You can also Connect with me on: </h4>
 
 </div>
 
-## 🔥 My Skills
+## 🔥 my skills
 
-### 👉 Programming Languages
+### 👉 programming languages
 
 <p align="left">
   
@@ -47,7 +47,7 @@ You can also Connect with me on: </h4>
 
 </p>
  
-### 👉 Front-end Development
+### 👉 frontend development
 
 <p align="left">
   
@@ -67,7 +67,7 @@ You can also Connect with me on: </h4>
     
 </p>
 
-### 👉 Version Control
+### 👉 version control
 
 <p align="left">
   
@@ -84,7 +84,7 @@ You can also Connect with me on: </h4>
   
 </p>
 
-### 👉 Software & Tools
+### 👉 software & tools
 
 <p align="left">
   
@@ -110,7 +110,7 @@ You can also Connect with me on: </h4>
   
 </p>
 
-### 👉 Operational System
+### 👉 operational system
 
 <p align="left">
   
@@ -126,7 +126,7 @@ You can also Connect with me on: </h4>
  
 </p>
 
-### 👉 Graphic Design
+### 👉 graphic design
 
 <p align="left">
   
@@ -142,7 +142,7 @@ You can also Connect with me on: </h4>
   
 </p>
 
-### 👉 Frameworks, Platforms & Libraries
+### 👉 frameworks, platforms & libraries
 
 <p align="left">
   
@@ -153,7 +153,7 @@ You can also Connect with me on: </h4>
   
 </p>
 
-### 👉 What I'm Studying
+### 👉 what I'm studying
 
 <p>
   
@@ -197,4 +197,4 @@ You can also Connect with me on: </h4>
 <hr/>
                      
 * Credit: [Marcelo Machado](https://github.com/mmaachado)
-* Last Edited on: 25/01/2022
+* Last Edited on: 19/03/2022
