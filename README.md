@@ -14,19 +14,9 @@ feel free to clone/fork any projects, raise issues or even submit PRs if you thi
 you can also Connect with me on: </h4>	
 <a target="_blank" href="https://www.linkedin.com/in/marcelo-machado/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://www.instagram.com/m.maachado/"
-><img src="https://img.shields.io/badge/@m.maachado-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
-&emsp;
 <a target="_blank" href="mailto:mjoelmachadojr@gmail.com"
 ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://twitter.com/hayashilol1"><img src="https://img.shields.io/badge/@hayashilol1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://www.youtube.com/channel/UCCpLiRI83WjoYvnEs3Pl_fg"><img src="https://img.shields.io/badge/Dart Side-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://www.behance.net/mmachadojr"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></img></a>
-&emsp;
-
 </div>
 
 ## 🔥 my skills
@@ -40,11 +30,6 @@ you can also Connect with me on: </h4>
   </a>
  &emsp;
   
-  <a href="https://www.ruby-lang.org/en/">
-    <img alt:"Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
-  </a>
- &emsp;
-
 </p>
  
 ### 👉 frontend development
@@ -102,12 +87,7 @@ you can also Connect with me on: </h4>
     <img alt:"Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
   </a>
  &emsp;
- 
-  <a href="https://atom.io/">
-    <img alt:"Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
-  </a>
- &emsp;
-  
+
 </p>
 
 ### 👉 operational system
@@ -151,38 +131,47 @@ you can also Connect with me on: </h4>
   </a>
  &emsp;
   
+ <a href="https://tailwindcss.com/">
+    <img alt:"TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  </a>
+ &emsp;
+  
+  <a href="https://sass-lang.com/">
+    <img alt:"Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+  </a>
+ &emsp;  
+  
 </p>
 
 ### 👉 what I'm studying
 
 <p>
   
-  <a href="https://rubyonrails.org/">
-    <img alt:"Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+   <a href="https://jquery.com/">
+    <img alt:"jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+  </a>
+ &emsp;
+  
+  <a href="https://angular.io/">
+    <img alt:"Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+  </a>
+ &emsp;
+  
+  <a href="https://reactjs.org/">
+    <img alt:"React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  </a>
+ &emsp;
+  
+  <a href="https://vuejs.org/">
+    <img alt:"Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+  </a>
+ &emsp;
+  
+  <a href="https://jestjs.io/">
+    <img alt:"Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   </a>
  &emsp;
 
-  
-  <a href="https://firebase.google.com/">
-    <img alt:"Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  </a>
- &emsp;
-  
-  <a href="https://docs.microsoft.com/en-gb/dotnet/csharp/">
-    <img alt:"C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  </a>
- &emsp;
-  
-  <a href="https://dart.dev/">
-    <img alt:"Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-  </a>
- &emsp;
-  
-  <a href="https://flutter.dev/?gclid=CjwKCAiA3L6PBhBvEiwAINlJ9OhGZpU3cOnsynOOP5PBgo7KA3hrVsKh_SrjhslLqGPh68pgs-_TSBoCYwsQAvD_BwE&gclsrc=aw.ds">
-    <img alt:"Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-  </a>
- &emsp;
-  
   <a href="https://aws.amazon.com/?nc2=h_lg">
     <img alt:"AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   </a>
@@ -197,4 +186,4 @@ you can also Connect with me on: </h4>
 <hr/>
                      
 * Credit: [Marcelo Machado](https://github.com/mmaachado)
-* Last Edited on: 19/03/2022
+* Last Edited on: 17/05/2022
