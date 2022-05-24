@@ -2,7 +2,7 @@
   
   <h1>hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></h1>
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=software+engineering+student;frontend+developer;always%20searching%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=software+engineering+student;frontend+developer+;game+development+enthusiast;always%20searching%20new%20things&center=true&width=500&height=50"></a>
     
 </p>
 <hr/>
@@ -30,6 +30,10 @@ you can also Connect with me on: </h4>
   </a>
  &emsp;
   
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt:"JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </a>
+  
 </p>
  
 ### 👉 frontend development
@@ -52,6 +56,18 @@ you can also Connect with me on: </h4>
     
 </p>
 
+### 👉 game development
+
+<p align="left">
+  
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">
+    <img alt:"C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  </a>
+ &emsp;
+    
+</p>
+
+
 ### 👉 version control
 
 <p align="left">
@@ -72,6 +88,16 @@ you can also Connect with me on: </h4>
 ### 👉 software & tools
 
 <p align="left">
+  
+  <a href="https://visualstudio.microsoft.com/">
+    <img alt:"Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  </a>
+ &emsp;
+  
+  <a href="https://unity.com/">
+    <img alt:"Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+  </a>
+ &emsp;
   
    <a href="https://developer.apple.com/xcode/">
     <img alt:"XCode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
@@ -147,38 +173,18 @@ you can also Connect with me on: </h4>
 
 <p>
   
-   <a href="https://jquery.com/">
-    <img alt:"jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">
+    <img alt:"C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </a>
  &emsp;
   
-  <a href="https://angular.io/">
-    <img alt:"Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+   <a href="https://unity.com/">
+    <img alt:"Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   </a>
  &emsp;
   
-  <a href="https://reactjs.org/">
-    <img alt:"React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  </a>
- &emsp;
-  
-  <a href="https://vuejs.org/">
-    <img alt:"Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-  </a>
- &emsp;
-  
-  <a href="https://jestjs.io/">
-    <img alt:"Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  </a>
- &emsp;
-
-  <a href="https://aws.amazon.com/?nc2=h_lg">
-    <img alt:"AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  </a>
- &emsp;
-  
-  <a href="https://www.jenkins.io/">
-    <img alt:"Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <a href="https://www.unrealengine.com/en-US">
+    <img alt:"Unreal Engine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
   </a>
  &emsp;
 
@@ -186,4 +192,4 @@ you can also Connect with me on: </h4>
 <hr/>
                      
 * Credit: [Marcelo Machado](https://github.com/mmaachado)
-* Last Edited on: 17/05/2022
+* Last Edited on: 24/05/2022
