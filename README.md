@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://github.com/mmaachado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmaachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-     &emsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaachado&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
