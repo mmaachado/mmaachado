@@ -1,10 +1,3 @@
-<div align="center" style="display: flex;">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mmaachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaachado&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-  ##
-
   <p align="center">
   
   <a href="https://www.w3.org/html/">
@@ -33,7 +26,7 @@
  &emsp;
     
 </p>
-  
+  ## 
 <div align="center">
 
 <a target="_blank" href="https://www.linkedin.com/in/marcelo-machado/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
