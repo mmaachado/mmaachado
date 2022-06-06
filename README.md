@@ -6,13 +6,13 @@ Hello there!
 
 <div align="center">
 
-So you finally found me on Github...
+So you finally found me on Github... Check out more about me below
 
 </div>
  
  ##
  
- 
+
  <p align="center">
   
   <a href="https://www.w3.org/html/">
