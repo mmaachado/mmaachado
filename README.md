@@ -1,4 +1,19 @@
-  <p align="center">
+<div align="center">
+
+Hello there!
+
+</div>
+
+<div align="center">
+
+So you finally found me on Github...
+
+</div>
+ 
+ ##
+ 
+ 
+ <p align="center">
   
   <a href="https://www.w3.org/html/">
     <img alt:"HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
