@@ -58,13 +58,13 @@
 
 <p align="left">
   <a target="_blank" href="https://www.instagram.com/m.maachado/" alt="Instagram">
-  <img src="https://img.shields.io/badge/@m.maachado-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/follow-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
  &emsp;
  <a target="_blank" href="https://twitter.com/hayashilol1" alt="Twitter">
-  <img src="https://img.shields.io/badge/@hayashilol1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/follow-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
  &emsp;
  <a target="_blank" href="https://www.youtube.com/channel/UC714t7UCE061pxQF-qvT5dA" alt="YouTube">
-  <img src="https://img.shields.io/badge/Anti Coding Coding Club-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/subscribe-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
  &emsp;
   <a target="_blank" href="https://www.reddit.com/r/anticodingcodingclub/" alt="Reddit">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
