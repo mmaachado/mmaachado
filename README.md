@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Hello there! I'm a frontend developer, and I love to create simple and beautiful web interfaces developed just with HTML, CSS, JavaScript && Sass.
+ Hello there! I'm a frontend developer, and I love to create simple and beautiful web interfaces and iOS apps with Swift && SwiftUI.
 </p>
 
 ##
 
 <p align="left">
- 👻 Daily Technologies: <br/>
+ 👻 Frontend Technologies: <br/>
  <br/>
  <a href="https://www.w3.org/html/">
     <img alt:"HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -25,6 +25,28 @@
     <img alt:"Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
   </a>
  &emsp;
+</p>
+
+<p align="left">
+  🎃 iOS Technologies: <br/>
+ <br/> 
+ <a href="https://developer.apple.com/swift/">
+    <img alt:"Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+  </a>
+ &emsp;
+ <a href="https://firebase.google.com/">
+    <img alt:"Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+  </a>
+ &emsp;
+ <a href="https://www.heroku.com/">
+    <img alt:"Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+  </a>
+ &emsp;
+ <a href="https://git-scm.com/">
+    <img alt:"Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+ &emsp;
+ 
 </p>
 
 <p align="left">
