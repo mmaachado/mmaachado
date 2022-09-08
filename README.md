@@ -52,22 +52,10 @@
 <p align="left">
   👾 What I'm Learning: <br/>
  <br/>
- <a href="https://reactjs.org/">
-    <img alt:"React.js" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+ <a href="https://aws.amazon.com/">
+    <img alt:"AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   </a>
- &emsp;
-  <a href="https://redux.js.org/">
-    <img alt:"Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-  </a>
- &emsp;
-  <a href="https://getbootstrap.com/">
-    <img alt:"Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  </a>
- &emsp;
-  <a href="https://tailwindcss.com/">
-    <img alt:"Tailwind.css" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  </a>
- &emsp;
+ &emsp; 
  
 </p>
 
