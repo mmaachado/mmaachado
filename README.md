@@ -55,6 +55,10 @@
  <a href="https://aws.amazon.com/">
     <img alt:"AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   </a>
+ &emsp;
+  <a href="https://www.python.org/">
+    <img alt:"Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  </a>
  &emsp; 
  
 </p>
