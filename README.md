@@ -7,7 +7,7 @@
 ##
 
 <p align="left">
-  🎃 Daily/iOS Technologies: <br/>
+  🎃 Daily Technologies: <br/>
  <br/> 
  <a href="https://developer.apple.com/swift/">
     <img alt:"Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
