@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Hello there! I'm a iOS developer, and I love to create simple and beautiful iOS apps with Swift && SwiftUI.
+ Hello there! I'm a python developer, and I love to create functional and useful bots.
 </p>
 
 ##
@@ -9,14 +9,10 @@
 <p align="left">
   🎃 Daily Technologies: <br/>
  <br/> 
- <a href="https://developer.apple.com/swift/">
-    <img alt:"Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+   <a href="https://www.python.org/">
+    <img alt:"Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </a>
- &emsp;
- <a href="https://firebase.google.com/">
-    <img alt:"Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  </a>
- &emsp;
+ &emsp; 
  <a href="https://www.heroku.com/">
     <img alt:"Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   </a>
@@ -26,6 +22,19 @@
   </a>
  &emsp;
  
+</p>
+
+<p align="left">
+ ☠️ Mobile Technologies: <br/>
+ <br/>
+ <a href="https://developer.apple.com/swift/">
+    <img alt:"Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
+  </a>
+ &emsp;
+ <a href="https://firebase.google.com/">
+    <img alt:"Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+  </a>
+ &emsp;
 </p>
 
 <p align="left">
@@ -56,11 +65,7 @@
     <img alt:"AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   </a>
  &emsp;
-  <a href="https://www.python.org/">
-    <img alt:"Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  </a>
- &emsp; 
- 
+
 </p>
 
 </div>
