@@ -65,6 +65,16 @@
     <img alt:"AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   </a>
  &emsp;
+ 
+ <a href="https://www.djangoproject.com/">
+   <img alt:"Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+ </a>
+ &emsp;
+ 
+ <a href="https://fastapi.tiangolo.com/">
+   <img alt:"FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+ </a>
+ &emsp;
 
 </p>
 
