@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computer-illustration.png">
 
 <p align="left"> 
- Hello there! I'm a python developer, and I love to create functional and useful bots.
+ Hello there! I'm a backend developer, and my favourite framework is Django.
 </p>
 
 ##
@@ -13,12 +13,14 @@
     <img alt:"Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </a>
  &emsp; 
- <a href="https://www.heroku.com/">
-    <img alt:"Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+ 
+  <a href="https://pandas.pydata.org/">
+   <img alt:"Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   </a>
- &emsp;
- <a href="https://git-scm.com/">
-    <img alt:"Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+ &emsp; 
+ 
+ <a href="https://about.gitlab.com/">
+    <img alt:"GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
   </a>
  &emsp;
  
@@ -61,11 +63,7 @@
 <p align="left">
   👾 What I'm Learning: <br/>
  <br/>
- <a href="https://aws.amazon.com/">
-    <img alt:"AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  </a>
- &emsp;
- 
+  
  <a href="https://www.djangoproject.com/">
    <img alt:"Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
  </a>
@@ -75,6 +73,40 @@
    <img alt:"FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
  </a>
  &emsp;
+ 
+  <a href="https://flask.palletsprojects.com/en/2.2.x/">
+   <img alt:"Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+ </a>
+ &emsp;
+ 
+  <a href="https://ubuntu.com/">
+   <img alt:"Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+ </a>
+ &emsp;
+ 
+  <a href="https://www.docker.com/">
+   <img alt:"Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+ </a>
+ &emsp;
+ 
+  <a href="https://www.postman.com/">
+   <img alt:"Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+ </a>
+ &emsp;
+ 
+  <a href="https://docs.gitlab.com/ee/ci/">
+   <img alt:"Gitlab CI/CD" src="https://img.shields.io/badge/GitLab CI/CD-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+ </a>
+ &emsp;
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 </p>
 
@@ -86,9 +118,6 @@
 </p>
 
 <p align="left">
-  <a target="_blank" href="https://www.instagram.com/m.maachado/" alt="Instagram">
-  <img src="https://img.shields.io/badge/follow-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
- &emsp;
  <a target="_blank" href="https://twitter.com/hayashilol1" alt="Twitter">
   <img src="https://img.shields.io/badge/follow-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
  &emsp;
