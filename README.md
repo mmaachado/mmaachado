@@ -48,12 +48,10 @@ My main knowledge in technologies are **Python**, **Django**, **Flask**, **Docke
 
 <div align="right" style="margin:auto">
     <a href="https://wakatime.com/@hayashilol1">
-        <img width="300em" src="https://wakatime.com/badge/user/1bda1681-3229-4221-b982-968a3af3700b.svg" alt="Wakatime stats" align="right" />
+        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=hayashilol1&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
     </a>
 </div>
 
-
-    
 
 I am currently working as _main developer_ for the [Anti Coding Coding Club](https://www.youtube.com/@anticodingcodingclub) project. 
 
