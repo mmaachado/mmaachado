@@ -44,13 +44,13 @@ Generally the type of person who accepts challenges. I'm what they call creative
 
 My main knowledge in technologies are **Python**, **Django**, **Flask**, **Docker**. I am also comfortable using **C++** and **Swift**.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computer-illustration.png">
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computer-illustration.png"> -->
 
-<!-- <div align="right" style="margin:auto">
+<div align="right" style="margin:auto">
     <a href="https://wakatime.com/@hayashilol1">
         <img width="300em" src="https://wakatime.com/badge/user/1bda1681-3229-4221-b982-968a3af3700b.svg" alt="Wakatime stats" align="right" />
     </a>
-</div> -->
+</div>
 
 
     
