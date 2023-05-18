@@ -13,8 +13,8 @@
 </div>
 
 <div align="center">
-    <a href="https://twitter.com/intent/follow?screen_name=agirlol1">
-        <img src="https://img.shields.io/twitter/follow/hayashilol1?style=social&logo=twitter"
+    <a href="https://twitter.com/intent/follow?screen_name=shinilol1">
+        <img src="https://img.shields.io/twitter/follow/shinilol1?style=social&logo=twitter"
         alt="follow on twitter">
     </a>
     <a href="https://www.twitch.tv/hayashilol1">
@@ -36,7 +36,7 @@
 </div>
 
 
-hey there!! I am Marcelo, aka [**@agirlol1**](https://twitter.com/agirlol1) 😊
+hey there!! I am Marcelo, aka [**@shinilol1**](https://twitter.com/shinilol1) 😊
 
 I'm a pragmatic developer with a passion for metrics and beating former **best yets**.
 
