@@ -47,8 +47,8 @@ My main knowledge in technologies are **Python** and **Django**. I am also comfo
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computer-illustration.png"> -->
 
 <div align="right" style="margin:auto">
-    <a href="https://wakatime.com/@hayashilol1">
-        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=hayashilol1&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="wakatime stats" align="right" />
+    <a href="https://wakatime.com/@shinilol1">
+        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shinilol1&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="wakatime stats" align="right" />
     </a>
 </div>
 
