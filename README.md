@@ -1,7 +1,7 @@
 <h1 align="center"> Marcelo Machado </h1>
     
 <div align="center">
-<b>backend developer | streamer | linux enthusiast 🐍🐧</b>
+<b>backend developer | streamer | linux evangelist 🐍🐧</b>
 <br>
 <br>
 
@@ -30,7 +30,7 @@
 
 <div align="right" style="margin:auto">
      <a href="https://github.com/mmaachado">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaachado&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=transparent&title_color=4a86d1&custom_title=my%20favourite%20languages"
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaachado&hide=html,jupyter%20notebook,css&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=transparent&title_color=4a86d1&custom_title=my%20favourite%20languages"
        alt="most used languages" align="right">
     </a>
 </div>
@@ -55,8 +55,14 @@ My main knowledge in technologies are **Python** and **Django**. I am also comfo
 
 I am currently working as _main developer_ for the [Anti Coding Coding Club](https://www.youtube.com/@anticodingcodingclub) project. 
 
-</details>
+<br>
 
+>Remember, the difference between script kiddies and professional hackers is that the former uses other people's tools. The latter can write their own.
+>
+> &mdash; <cite>Charlie Miller</cite>
+
+
+</details>
 ---
 
 <div align="left">
