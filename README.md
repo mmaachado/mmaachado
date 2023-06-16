@@ -22,12 +22,11 @@
     </a>
 </div>
 
-<details closed>
-<summary>about me 👻</summary>
-
 ---
 
-
+<details closed>    
+<summary>about me 👻</summary>
+    
 <div align="right" style="margin:auto">
      <a href="https://github.com/mmaachado">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaachado&hide=html,jupyter%20notebook,css&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=transparent&title_color=4a86d1&custom_title=my%20favourite%20languages"
@@ -63,6 +62,7 @@ I am currently working as _main developer_ for the [Anti Coding Coding Club](htt
 
 
 </details>
+
 ---
 
 <div align="left">
