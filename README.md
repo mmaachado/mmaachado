@@ -61,7 +61,6 @@ I am currently working as _main developer_ for the [Anti Coding Coding Club](htt
 ---
 
 <div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-machado/)
+    
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/anticodingclub)
 </div>
