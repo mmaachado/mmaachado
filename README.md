@@ -31,24 +31,21 @@
        alt="most used languages" align="right">
 </div>
 
-
+<div align="left">
+    
 hey there!! I am Marcelo, aka [**@shinilol1**](https://twitter.com/shinilol1) 😊
 
 My main knowledge in technologies are **Python** and **Django**. I am also comfortable using **Flask** and **FastAPI**.
 
+I am currently working as _main developer_ for the [Anti Coding Coding Club](https://www.youtube.com/@anticodingcodingclub) project. 
+</div>
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computer-illustration.png"> -->
 
-<br/>
-<br/>
 
-<div align="right" style="margin:auto">
-    <a href="https://wakatime.com/@shinilol1">
+<div align="right">
         <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=shinilol1&theme=transparent&hide_border=true&hide=markdown,html,css,text,other&hide_title=true&line_height=50&langs_count=4&layout=default" alt="wakatime stats" align="right" />
-    </a>
+
 </div>
-
-
-I am currently working as _main developer_ for the [Anti Coding Coding Club](https://www.youtube.com/@anticodingcodingclub) project. 
 
 <br>
 
