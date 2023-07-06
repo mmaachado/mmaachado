@@ -26,11 +26,9 @@
 <details closed>    
 <summary>about me ðŸ‘»</summary>
     
-<div align="right" style="margin:auto">
-     <a href="https://github.com/mmaachado">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaachado&hide=html,css,swift&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&theme=transparent&title_color=4a86d1&custom_title=my%20favourite%20languages"
+<div align="right">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaachado&hide=html,css,swift&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=10&theme=transparent&title_color=4a86d1&custom_title=my%20favourite%20languages"
        alt="most used languages" align="right">
-    </a>
 </div>
 
 
@@ -39,6 +37,9 @@ hey there!! I am Marcelo, aka [**@shinilol1**](https://twitter.com/shinilol1) ðŸ
 My main knowledge in technologies are **Python** and **Django**. I am also comfortable using **Flask** and **FastAPI**.
 
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computer-illustration.png"> -->
+
+<br/>
+<br/>
 
 <div align="right" style="margin:auto">
     <a href="https://wakatime.com/@shinilol1">
