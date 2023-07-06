@@ -48,11 +48,13 @@ I am currently working as _main developer_ for the [Anti Coding Coding Club](htt
 </div>
 
 <br>
-
+<div align="left">
+    
 > *Remember, the difference between script kiddies and professional hackers is that the former uses other people's tools. The latter can write their own.*
 >
 > &mdash; <cite>*Charlie Miller*</cite>
 
+</div>
 
 </details>
 
