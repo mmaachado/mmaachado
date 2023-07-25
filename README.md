@@ -6,7 +6,7 @@
 <br>
 
 <p><i>
-    hello there! I'm a backend developer, and my favourite framework is Django.
+    hello there! I'm a backend developer, and my favourite language is Python.
 </i></p>
 
 </div>
@@ -16,8 +16,8 @@
         <img src="https://img.shields.io/twitter/follow/shinilol1?style=social&logo=twitter"
         alt="follow on twitter">
     </a>
-    <a href="https://www.twitch.tv/hayashilol1">
-    <img alt="twitch Status" src="https://img.shields.io/twitch/status/agirlol1?style=social">
+    <a href="https://www.twitch.tv/shinyhgami">
+    <img alt="twitch Status" src="https://img.shields.io/twitch/status/shinyhgami?style=social">
     </a>
 </div>
 
@@ -41,7 +41,7 @@
     
 hey there!! I am Marcelo, aka [**@shinilol1**](https://twitter.com/shinilol1) 😊
 
-My main knowledge in technologies are **Python** and **Django**. I am also comfortable using **Flask** and **FastAPI**.
+My main knowledge in technologies are **Python** and **Flask**. I am also comfortable using **Django** and **FastAPI**.
 
 I am currently working as _main developer_ for the [Anti Coding Coding Club](https://www.youtube.com/@anticodingcodingclub) project.
 
