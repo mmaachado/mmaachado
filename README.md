@@ -39,7 +39,7 @@
 
 <div align="left">
     
-hey there!! I am Marcelo, aka [**@shinilol1**](https://twitter.com/shinilol1) 😊
+hey there!! I am Marcelo.
 
 My main knowledge in technologies are **Python** and **Flask**. I am also comfortable using **Django** and **FastAPI**.
 
