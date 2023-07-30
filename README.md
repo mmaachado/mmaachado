@@ -12,10 +12,6 @@
 </div>
 
 <div align="center">
-    <a href="https://twitter.com/intent/follow?screen_name=shinilol1">
-        <img src="https://img.shields.io/twitter/follow/shinilol1?style=social&logo=twitter"
-        alt="follow on twitter">
-    </a>
     <a href="https://www.twitch.tv/shinyhgami">
     <img alt="twitch Status" src="https://img.shields.io/twitch/status/shinyhgami?style=social">
     </a>
