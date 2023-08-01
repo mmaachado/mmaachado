@@ -11,12 +11,6 @@
 
 </div>
 
-<div align="center">
-    <a href="https://www.twitch.tv/shinyhgami">
-    <img alt="twitch Status" src="https://img.shields.io/twitch/status/shinyhgami?style=social">
-    </a>
-</div>
-
 ---
 
 <details closed>    
@@ -28,7 +22,7 @@
 </div>
 
 <div align="right">
-        <img width="300rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=shinilol1&theme=transparent&hide_border=true&hide=markdown,html,css,text,other,yaml,json&hide_title=true&line_height=50&langs_count=4&layout=default" alt="wakatime stats" align="right" />
+        <img width="300rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=mmachado&theme=transparent&hide_border=true&hide=markdown,html,css,text,other,yaml,json&hide_title=true&line_height=50&langs_count=4&layout=default" alt="wakatime stats" align="right" />
 
 </div>
 
