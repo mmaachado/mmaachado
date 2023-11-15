@@ -15,18 +15,16 @@
 
 <details closed>    
 <summary>about me 👻</summary>
-    
-<div align="right">
+
+<div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaachado&hide=html,css,swift,javascript,ruby&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=10&theme=transparent&title_color=4a86d1&custom_title=my%20favourite%20languages"
        alt="most used languages" align="right">
 </div>
 
-<div align="right">
-        <img width="300rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=mmachado&theme=transparent&hide_border=true&hide=markdown,html,css,text,other,yaml,json,prolog,dart,docker,xml,git config,TSQL&hide_title=true&line_height=50&langs_count=4&layout=default" alt="wakatime stats" align="right" />
+<div>
+        <img width="300rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=mmachado&theme=transparent&hide_border=true&hide=markdown,html,css,text,other,yaml,json,prolog,dart,docker,xml,gitconfig,TSQL&hide_title=true&line_height=50&langs_count=4&layout=default" alt="wakatime stats" align="right" />
 
 </div>
-
-
 <div align="left">
     
 hey there!! I am Marcelo.
