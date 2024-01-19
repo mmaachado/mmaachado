@@ -1,12 +1,12 @@
 <h1 align="center"> Marcelo Machado </h1>
     
 <div align="center">
-<b>backend developer | red team | linux evangelist 🐍🐧</b>
+<b>backend developer | bounty hunter | linux evangelist 🐍🐧</b>
 <br>
 <br>
 
 <p><i>
-    hello there! I'm a red team hacker, and my favourite language is Python.
+    hello there! I'm a backend developer, and my favourite language is Python.
 </i></p>
 
 </div>
@@ -27,9 +27,9 @@
 </div>
 <div align="left">
     
-hey there!! I am Marcelo.
+hey!! I am Marcelo.
 
-My main knowledge in technologies are **Python** and **Linux**. I am also comfortable using **Nmap** and **bash**.
+My main knowledge in technologies are **Python** and **Linux**.
 
 I am currently working as _lead developer_ for the [Anti Coding Coding Club](https://www.youtube.com/@anticodingcodingclub) project.
 
