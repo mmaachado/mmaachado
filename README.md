@@ -6,7 +6,7 @@
 <br>
 
 <p><i>
-    hello there! I'm a backend developer, and my favourite language is Python.
+    hello there! I'm a backend developer, and my favourite distro is Debian.
 </i></p>
 
 </div>
@@ -17,7 +17,7 @@
 <summary>about me 👻</summary>
 
 <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaachado&hide=html,css,swift,javascript,ruby&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=10&theme=transparent&title_color=4a86d1&custom_title=my%20favourite%20languages"
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaachado&hide=html,css,swift,ruby&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=10&theme=transparent&title_color=4a86d1&custom_title=my%20favourite%20languages"
        alt="most used languages" align="right">
 </div>
 
@@ -27,9 +27,10 @@
 </div>
 <div align="left">
     
-hey!! I am Marcelo.
+hey!! I'm Marcelo.
 
-My main knowledge in technologies are **Python** and **Linux**.
+My main knowledge in technologies are **Python**, **Django Web Framework**, **Django REST Framework**, **Flask** and **FastAPI**. I am also comfortable using **Node.js**
+
 
 I am currently working as _lead developer_ for the [Anti Coding Coding Club](https://www.youtube.com/@anticodingcodingclub) project.
 
