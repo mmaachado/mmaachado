@@ -29,7 +29,7 @@
     
 hey!! I'm Marcelo.
 
-My main knowledge in technologies are **Python**, **Django Web Framework**, **Django REST Framework**, **Flask** and **FastAPI**. I am also comfortable using **Node.js**
+My main knowledge in technologies are **Python**, **Django**, **Flask** and **FastAPI**. I am also comfortable using **Node.js**.
 
 
 I am currently working as _lead developer_ for the [Anti Coding Coding Club](https://www.youtube.com/@anticodingcodingclub) project.
