@@ -1,12 +1,12 @@
 <h1 align="center"> Marcelo Machado </h1>
     
 <div align="center">
-<b>backend developer | bounty hunter | linux evangelist 🐍🐧</b>
+<b>pythonista 🐍 | software engineer 💻 | linux evangelist 🐧</b>
 <br>
 <br>
 
 <p><i>
-    hello there! I'm a backend developer, and my favourite distro is Debian.
+    hello there! I'm a software engineer, and my favourite distro is Debian.
 </i></p>
 
 </div>
@@ -29,7 +29,7 @@
     
 hey!! I'm Marcelo.
 
-My main knowledge in technologies are **Python**, **Django**, **Flask** and **FastAPI**. I am also comfortable using **Node.js**.
+My main knowledge in technologies are **Python**, **FastAPI**, **Flask** and **Django**. I am also comfortable using **Node.js**.
 
 
 I am currently working as _lead developer_ for the [Anti Coding Coding Club](https://www.youtube.com/@anticodingcodingclub) project.
