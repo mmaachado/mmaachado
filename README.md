@@ -5,11 +5,12 @@
 <br>
 <br>
 
-<i>hello there! I'm a software engineer, and my favourite distro is Debian. Feel free to call me Marquês or simply Marcs.</i>
+<i>hello there! I'm a software engineer, and my favourite distro is Debian. Feel free to call me Marquês or Marcs.</i>
+
 <p>
 
 My main knowledge in technologies are **Python**, **FastAPI**, **Flask** and **Django**. But I'm also comfortable using **Node.js**. <br/>
-I'm currently working as _lead developer_ for the [Anti Coding Coding Club](https://www.youtube.com/@anticodingcodingclub) project.
+I'm a proud member of the Python Software Foundation, and I aim to make great contributions to the Python community.
 </p>
 
 </div>
