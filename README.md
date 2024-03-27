@@ -19,8 +19,9 @@ I'm currently working as _lead developer_ for the [Anti Coding Coding Club](http
 <details closed>    
 <summary>my stats</summary>
 
-<div>
-    <!--START_SECTION:waka--> <br/>
+<!--START_SECTION:waka-->
+<br/>
+
 **I'm a Night 🦉** 
 
 ```text
@@ -55,9 +56,8 @@ Linux                    2 hrs 57 mins       ███░░░░░░░░�
 
 
  Last Updated on 27/03/2024
-<!--END_SECTION:waka-->
 
-</div>
+<!--END_SECTION:waka-->
 
 <!-- <div>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/mmaachado?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaachado&hide=html,css,swift,ruby&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=10&theme=transparent&title_color=4a86d1&custom_title=favourite%20languages"
