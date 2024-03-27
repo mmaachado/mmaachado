@@ -1,5 +1,5 @@
 name: Waka README.md
-
+            
 on:
   schedule:
     # Runs at 12am UTC
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Profile Readme Development Stats
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@v4
