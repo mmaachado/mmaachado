@@ -19,7 +19,9 @@ I'm currently working as _lead developer_ for the [Anti Coding Coding Club](http
 <details closed>    
 <summary>my stats</summary>
 
-<div>    
+<div>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/mmaachado?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaachado&hide=html,css,swift,ruby&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=10&theme=transparent&title_color=4a86d1&custom_title=favourite%20languages"
        alt="most used languages" align="right"></a>
 </div>
