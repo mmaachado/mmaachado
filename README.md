@@ -38,20 +38,18 @@ I'm a proud member of the Python Software Foundation and I aim to make great con
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   45 mins             ████████████████████░░░░░   80.52% 
-HTML                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 27/12/2024
+ Last Updated on 28/12/2024
 <!--END_SECTION:waka-->
 
 <!-- <div>
