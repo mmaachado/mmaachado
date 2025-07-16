@@ -1,16 +1,16 @@
 <h1 align="center"> Marcelo Machado </h1> <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/mmaachado.png" alt="TryHackMe"> -->
     
 <div align="center">
-<b>pythonista 🐍 | bounty hunter 💻 | linux evangelist 🐧</b>
+<b>pythonista 🐍 | hacker 💻 | linux evangelist 🐧</b>
 <br>
 <br>
 
-<i>hello there! I'm a ethical hacker and Pythonista. Feel free to call me Marquês or Marcs.</i>
+<i>hello there! I'm a Pythonista and ethical hacker. Feel free to call me Marquês or Marcs.</i>
 
 <p>
 
-My main knowledge in technologies are **Python** and **bash**. But I'm also comfortable using **C**. <br/>
-I'm a proud member of the Python Software Foundation and I aim to make great contributions to the Python/cybersec community. I use Arch btw!
+My main knowledge in technologies are **Python** and **bash**. But I'm also comfortable using **C** and **Node.js**. <br/>
+I'm a proud member of the Python Software Foundation and I aim to make great contributions to the Python/open source community. I use Arch btw!
 </p>
 
 </div>
