@@ -24,10 +24,10 @@ I'm a proud member of the Python Software Foundation and I aim to make great con
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
-🌆 Daytime    187 commits    ████████████░░░░░░░░░░░░░   49.87% 
-🌃 Evening    135 commits    █████████░░░░░░░░░░░░░░░░   36.0% 
-🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.4%
+🌞 Morning    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+🌆 Daytime    187 commits    ████████████░░░░░░░░░░░░░   49.21% 
+🌃 Evening    135 commits    █████████░░░░░░░░░░░░░░░░   35.53% 
+🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37%
 
 ```
 
@@ -38,24 +38,24 @@ I'm a proud member of the Python Software Foundation and I aim to make great con
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JSON                     1 hr 49 mins        ███████████░░░░░░░░░░░░░░   45.67% 
-TypeScript               1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   31.43% 
-Markdown                 45 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.82% 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.87% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
+Markdown                 2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   34.4% 
+TypeScript               1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   31.83% 
+JSON                     1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   30.0% 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88% 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
 
 🔥 Editors: 
-VS Code                  3 hrs 21 mins       █████████████████████░░░░   83.82% 
-Obsidian                 38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18%
+VS Code                  4 hrs 11 mins       █████████████████░░░░░░░░   68.65% 
+Obsidian                 1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   31.35%
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       ██████████████████████░░░   90.47% 
-Linux                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.53%
+Windows                  5 hrs 52 mins       ████████████████████████░   96.23% 
+Linux                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.77%
 
 ```
 
 
- Last Updated on 05/03/2026
+ Last Updated on 06/03/2026
 <!--END_SECTION:waka-->
 
 <!-- <div>
