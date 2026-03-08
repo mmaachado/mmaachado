@@ -38,23 +38,23 @@ I'm a proud member of the Python Software Foundation and I aim to make great con
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   34.4% 
-Markdown                 2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.7% 
-JSON                     1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   27.22% 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.72%
+Markdown                 2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.65% 
+TypeScript               2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   34.87% 
+JSON                     1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   23.83% 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
 
 🔥 Editors: 
-VS Code                  4 hrs 36 mins       █████████████████░░░░░░░░   69.1% 
-Obsidian                 2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   30.9%
+VS Code                  5 hrs 14 mins       ████████████████░░░░░░░░░   65.71% 
+Obsidian                 2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   34.29%
 
 💻 Operating System: 
-Windows                  6 hrs 39 mins       █████████████████████████   100.0%
+Windows                  7 hrs 58 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 07/03/2026
+ Last Updated on 08/03/2026
 <!--END_SECTION:waka-->
 
 <!-- <div>
