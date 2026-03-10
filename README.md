@@ -24,10 +24,10 @@ I am currently working at [@avell-labs](https://github.com/avell-labs) researchi
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
-🌆 Daytime    187 commits    ████████████░░░░░░░░░░░░░   49.21% 
-🌃 Evening    135 commits    █████████░░░░░░░░░░░░░░░░   35.53% 
-🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37%
+🌞 Morning    51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
+🌆 Daytime    187 commits    ████████████░░░░░░░░░░░░░   48.95% 
+🌃 Evening    135 commits    ████████░░░░░░░░░░░░░░░░░   35.34% 
+🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36%
 
 ```
 
@@ -38,23 +38,23 @@ I am currently working at [@avell-labs](https://github.com/avell-labs) researchi
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 44 mins       ███████████░░░░░░░░░░░░░░   47.16% 
-Markdown                 3 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.91% 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
+TypeScript               4 hrs 30 mins       ████████████░░░░░░░░░░░░░   51.09% 
+Markdown                 3 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   41.45% 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.48% 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91% 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
 
 🔥 Editors: 
-VS Code                  4 hrs 40 mins       ██████████████░░░░░░░░░░░   59.02% 
-Obsidian                 3 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.98%
+VS Code                  5 hrs 35 mins       ███████████████░░░░░░░░░░   63.22% 
+Obsidian                 3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.78%
 
 💻 Operating System: 
-Windows                  7 hrs 56 mins       █████████████████████████   100.0%
+Windows                  8 hrs 50 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 09/03/2026
+ Last Updated on 10/03/2026
 <!--END_SECTION:waka-->
 
 <!-- <div>
