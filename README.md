@@ -38,23 +38,23 @@ I am currently working at [@avell-labs](https://github.com/avell-labs) researchi
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 39 mins       ██████████████░░░░░░░░░░░   58.31% 
-Markdown                 2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.46% 
-JSON                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18% 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55% 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
+TypeScript               4 hrs 18 mins       ██████████████░░░░░░░░░░░   57.75% 
+Markdown                 2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.11% 
+JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.9% 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36% 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
 
 🔥 Editors: 
-VS Code                  6 hrs 8 mins        ███████████████████░░░░░░   76.93% 
-Obsidian                 1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   23.07%
+VS Code                  5 hrs 46 mins       ███████████████████░░░░░░   77.46% 
+Obsidian                 1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   22.54%
 
 💻 Operating System: 
-Windows                  7 hrs 59 mins       █████████████████████████   100.0%
+Windows                  7 hrs 27 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 13/03/2026
+ Last Updated on 14/03/2026
 <!--END_SECTION:waka-->
 
 <!-- <div>
