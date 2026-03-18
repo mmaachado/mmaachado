@@ -24,9 +24,9 @@ I am currently working at [@avell-labs](https://github.com/avell-labs) researchi
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.11% 
-🌆 Daytime    190 commits    ████████████░░░░░░░░░░░░░   48.84% 
-🌃 Evening    139 commits    █████████░░░░░░░░░░░░░░░░   35.73% 
+🌞 Morning    51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.08% 
+🌆 Daytime    191 commits    ████████████░░░░░░░░░░░░░   48.97% 
+🌃 Evening    139 commits    █████████░░░░░░░░░░░░░░░░   35.64% 
 🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31%
 
 ```
@@ -38,23 +38,23 @@ I am currently working at [@avell-labs](https://github.com/avell-labs) researchi
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 14 mins       █████████████░░░░░░░░░░░░   52.04% 
-Markdown                 1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   28.88% 
-JSON                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51% 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
+Markdown                 1 hr 42 mins        ██████████░░░░░░░░░░░░░░░   42.92% 
+TypeScript               1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   37.1% 
+JSON                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63% 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64% 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
 
 🔥 Editors: 
-VS Code                  3 hrs 21 mins       ███████████████████░░░░░░   77.72% 
-Obsidian                 57 mins             █████░░░░░░░░░░░░░░░░░░░░   22.28%
+VS Code                  2 hrs 27 mins       ███████████████░░░░░░░░░░   61.72% 
+Obsidian                 1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   38.28%
 
 💻 Operating System: 
-Windows                  4 hrs 19 mins       █████████████████████████   100.0%
+Windows                  3 hrs 58 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/03/2026
+ Last Updated on 18/03/2026
 <!--END_SECTION:waka-->
 
 <!-- <div>
