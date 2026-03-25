@@ -38,22 +38,22 @@ I am currently working at [@avell-labs](https://github.com/avell-labs) researchi
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 3 hrs 15 mins       ████████████████████████░   97.52% 
-TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+Markdown                 2 hrs 42 mins       ████████████████████████░   97.02% 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 🔥 Editors: 
-Obsidian                 3 hrs 11 mins       ████████████████████████░   95.73% 
-VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.27%
+Obsidian                 2 hrs 38 mins       ███████████████████████░░   94.87% 
+VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
 
 💻 Operating System: 
-Windows                  3 hrs 20 mins       █████████████████████████   100.0%
+Windows                  2 hrs 47 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 24/03/2026
+ Last Updated on 25/03/2026
 <!--END_SECTION:waka-->
 
 <!-- <div>
