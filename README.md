@@ -24,10 +24,10 @@ I am currently working at [@avell-labs](https://github.com/avell-labs) researchi
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
-🌆 Daytime    188 commits    ████████████░░░░░░░░░░░░░   48.08% 
-🌃 Evening    139 commits    █████████░░░░░░░░░░░░░░░░   35.55% 
-🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
+🌞 Morning    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
+🌆 Daytime    187 commits    ████████████░░░░░░░░░░░░░   48.7% 
+🌃 Evening    134 commits    ████████░░░░░░░░░░░░░░░░░   34.9% 
+🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.34%
 
 ```
 
@@ -38,18 +38,18 @@ I am currently working at [@avell-labs](https://github.com/avell-labs) researchi
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 3 hrs 45 mins       █████████████████████████   100.0%
+Markdown                 3 hrs 25 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Obsidian                 3 hrs 45 mins       █████████████████████████   100.0%
+Obsidian                 3 hrs 25 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 45 mins       █████████████████████████   100.0%
+Windows                  3 hrs 25 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 03/04/2026
+ Last Updated on 04/04/2026
 <!--END_SECTION:waka-->
 
 <!-- <div>
