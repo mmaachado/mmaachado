@@ -38,19 +38,19 @@ I am currently working at [@avell-labs](https://github.com/avell-labs) researchi
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 1 hr 53 mins        █████████████████████████   100.0%
+Markdown                 1 hr 19 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-Obsidian                 1 hr 53 mins        █████████████████████████   100.0%
+Obsidian                 1 hr 19 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 50 mins        ████████████████████████░   97.47% 
-Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
+Windows                  1 hr 16 mins        ████████████████████████░   96.42% 
+Linux                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.58%
 
 ```
 
 
- Last Updated on 10/04/2026
+ Last Updated on 11/04/2026
 <!--END_SECTION:waka-->
 
 <!-- <div>
