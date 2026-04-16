@@ -24,10 +24,10 @@ I am currently working at [@avell-labs](https://github.com/avell-labs) researchi
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
-🌆 Daytime    189 commits    ████████████░░░░░░░░░░░░░   48.71% 
-🌃 Evening    135 commits    ████████░░░░░░░░░░░░░░░░░   34.79% 
-🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32%
+🌞 Morning    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
+🌆 Daytime    191 commits    ████████████░░░░░░░░░░░░░   48.85% 
+🌃 Evening    136 commits    ████████░░░░░░░░░░░░░░░░░   34.78% 
+🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
 
 ```
 
@@ -38,24 +38,24 @@ I am currently working at [@avell-labs](https://github.com/avell-labs) researchi
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 1 hr 38 mins        ███████████░░░░░░░░░░░░░░   44.43% 
-MDX                      50 mins             █████░░░░░░░░░░░░░░░░░░░░   22.6% 
-Other                    37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
-TypeScript               34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+Markdown                 2 hrs 5 mins        ████████████░░░░░░░░░░░░░   50.41% 
+MDX                      50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17% 
+Other                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
+TypeScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
 🔥 Editors: 
-VS Code                  2 hrs 7 mins        ██████████████░░░░░░░░░░░   57.64% 
-Obsidian                 1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   42.36%
+VS Code                  2 hrs 7 mins        ████████████░░░░░░░░░░░░░   51.43% 
+Obsidian                 2 hrs               ████████████░░░░░░░░░░░░░   48.57%
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       ████████████████████████░   97.98% 
-Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02%
+Windows                  4 hrs 3 mins        ████████████████████████░   98.2% 
+Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
 
 ```
 
 
- Last Updated on 15/04/2026
+ Last Updated on 16/04/2026
 <!--END_SECTION:waka-->
 
 <!-- <div>
