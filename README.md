@@ -1,16 +1,16 @@
 <h1 align="center"> Marcelo Machado </h1> <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/mmaachado.png" alt="TryHackMe"> -->
     
 <div align="center">
-<b>backend developer | hacker | linux evangelist </b>
+<b>software engineer | cybersec researcher | linux evangelist </b>
 <br>
 <br>
 
-<i>hello there! I'm a backend developer and ethical hacker. Feel free to call me Marquês or Marcs.</i>
+<i>hello there! I'm a software engineer and ethical hacker. Feel free to call me Marquês or Marcs.</i>
 
 <p>
 
 My main knowledge in technologies are **Python** and **Node.js**. <br/>
-I am currently working at [@avell-labs](https://github.com/avell-labs) researching solutions to facilitate our daily operations.
+I'm currently working at my personal projects, researching solutions to facilitate my daily operations.
 </p>
 
 </div>
