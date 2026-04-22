@@ -13,6 +13,8 @@ My main knowledge in technologies are **Python** and **Node.js**. <br/>
 I'm currently working at my personal projects, researching solutions to facilitate my daily operations.
 </p>
 
+I use Arch btw!
+
 </div>
 
 ---
