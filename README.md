@@ -26,10 +26,10 @@ I use Arch btw!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
-🌆 Daytime    195 commits    ████████████░░░░░░░░░░░░░   48.87% 
-🌃 Evening    139 commits    ████████░░░░░░░░░░░░░░░░░   34.84% 
-🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26%
+🌞 Morning    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
+🌆 Daytime    195 commits    ████████████░░░░░░░░░░░░░   48.63% 
+🌃 Evening    141 commits    ████████░░░░░░░░░░░░░░░░░   35.16% 
+🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24%
 
 ```
 
@@ -40,24 +40,24 @@ I use Arch btw!
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 2 hrs 45 mins       ██████████████████░░░░░░░   72.72% 
-Rust                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.68% 
-Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.51% 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.4% 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.87%
+Markdown                 3 hrs 20 mins       ██████████████░░░░░░░░░░░   56.31% 
+MDX                      49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94% 
+Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
+TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
+Rust                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.63%
 
 🔥 Editors: 
-Obsidian                 2 hrs 41 mins       █████████████████░░░░░░░░   70.95% 
-VS Code                  1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   29.05%
+VS Code                  3 hrs 15 mins       █████████████░░░░░░░░░░░░   54.9% 
+Obsidian                 2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   45.1%
 
 💻 Operating System: 
-Windows                  2 hrs 54 mins       ███████████████████░░░░░░   76.48% 
-Linux                    53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.52%
+Linux                    3 hrs 3 mins        ████████████░░░░░░░░░░░░░   51.37% 
+Windows                  2 hrs 53 mins       ████████████░░░░░░░░░░░░░   48.63%
 
 ```
 
 
- Last Updated on 22/04/2026
+ Last Updated on 23/04/2026
 <!--END_SECTION:waka-->
 
 <!-- <div>
