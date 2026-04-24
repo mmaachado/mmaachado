@@ -40,24 +40,24 @@ I use Arch btw!
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 3 hrs 20 mins       ██████████████░░░░░░░░░░░   56.31% 
-MDX                      49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94% 
-Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
-TypeScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
-Rust                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.63%
+Markdown                 2 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.18% 
+MDX                      2 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.91% 
+Bash                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
+TypeScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25% 
+Rust                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       █████████████░░░░░░░░░░░░   54.9% 
-Obsidian                 2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   45.1%
+VS Code                  4 hrs 52 mins       █████████████████░░░░░░░░   68.12% 
+Obsidian                 2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.88%
 
 💻 Operating System: 
-Linux                    3 hrs 3 mins        ████████████░░░░░░░░░░░░░   51.37% 
-Windows                  2 hrs 53 mins       ████████████░░░░░░░░░░░░░   48.63%
+Linux                    4 hrs 40 mins       ████████████████░░░░░░░░░   65.19% 
+Windows                  2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   34.81%
 
 ```
 
 
- Last Updated on 23/04/2026
+ Last Updated on 24/04/2026
 <!--END_SECTION:waka-->
 
 <!-- <div>
