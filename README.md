@@ -26,9 +26,9 @@ I use Arch btw!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.07% 
-🌆 Daytime    199 commits    ████████████░░░░░░░░░░░░░   47.61% 
-🌃 Evening    147 commits    ████████░░░░░░░░░░░░░░░░░   35.17% 
+🌞 Morning    63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
+🌆 Daytime    199 commits    ███████████░░░░░░░░░░░░░░   47.49% 
+🌃 Evening    148 commits    ████████░░░░░░░░░░░░░░░░░   35.32% 
 🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15%
 
 ```
@@ -40,24 +40,25 @@ I use Arch btw!
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   40.87% 
-Python                   37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71% 
-MDX                      27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.88% 
-Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.02% 
-TOML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.58%
+Markdown                 1 hr 9 mins         ████████████░░░░░░░░░░░░░   48.93% 
+Other                    34 mins             ██████░░░░░░░░░░░░░░░░░░░   24.2% 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.83% 
+TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.38%
 
 🔥 Editors: 
-VS Code                  2 hrs 6 mins        ██████████████░░░░░░░░░░░   59.16% 
-Obsidian                 1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   40.84%
+VS Code                  1 hr 13 mins        ████████████░░░░░░░░░░░░░   51.36% 
+Obsidian                 1 hr                ██████████░░░░░░░░░░░░░░░   42.65% 
+Emacs                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.0%
 
 💻 Operating System: 
-Windows                  3 hrs 10 mins       ██████████████████████░░░   89.56% 
-Linux                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.44%
+Windows                  1 hr 32 mins        ████████████████░░░░░░░░░   64.69% 
+Linux                    50 mins             ████████░░░░░░░░░░░░░░░░░   35.31%
 
 ```
 
 
- Last Updated on 30/04/2026
+ Last Updated on 01/05/2026
 <!--END_SECTION:waka-->
 
 <!-- <div>
