@@ -40,25 +40,25 @@ I use Arch btw!
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   28.66% 
-Python                   1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   25.71% 
-Other                    43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
-TOML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.98% 
-fish                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.73%
+Markdown                 1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   31.16% 
+Python                   1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   26.51% 
+Other                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24% 
+TOML                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69% 
+fish                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.49%
 
 🔥 Editors: 
-Emacs                    2 hrs 19 mins       ████████████░░░░░░░░░░░░░   50.44% 
-VS Code                  1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   35.89% 
-Obsidian                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67%
+Emacs                    2 hrs 19 mins       █████████████░░░░░░░░░░░░   54.84% 
+VS Code                  1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   30.3% 
+Obsidian                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.86%
 
 💻 Operating System: 
-Linux                    3 hrs 43 mins       ████████████████████░░░░░   80.53% 
-Windows                  54 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.47%
+Linux                    3 hrs 21 mins       ███████████████████░░░░░░   78.83% 
+Windows                  54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.17%
 
 ```
 
 
- Last Updated on 05/05/2026
+ Last Updated on 06/05/2026
 <!--END_SECTION:waka-->
 
 <!-- <div>
