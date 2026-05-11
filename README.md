@@ -59,10 +59,10 @@ Check out my latest contributions to open source projects
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.04% 
-🌆 Daytime    199 commits    ███████████░░░░░░░░░░░░░░   47.49% 
-🌃 Evening    148 commits    ████████░░░░░░░░░░░░░░░░░   35.32% 
-🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15%
+🌞 Morning    63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+🌆 Daytime    199 commits    ███████████░░░░░░░░░░░░░░   47.38% 
+🌃 Evening    149 commits    ████████░░░░░░░░░░░░░░░░░   35.48% 
+🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14%
 
 ```
 
@@ -73,26 +73,23 @@ Check out my latest contributions to open source projects
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   32.56% 
-Markdown                 1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   30.81% 
-TOML                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
-fish                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.95% 
-jsonc                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+Markdown                 1 hr 25 mins        ███████████████████░░░░░░   78.29% 
+jsonc                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
+Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37% 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 🔥 Editors: 
-Emacs                    2 hrs 11 mins       ██████████████░░░░░░░░░░░   56.46% 
-Obsidian                 39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.77% 
-VS Code                  38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
-Zed                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.21%
+Obsidian                 1 hr 25 mins        ███████████████████░░░░░░   78.26% 
+Zed                      23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.74%
 
 💻 Operating System: 
-Linux                    2 hrs 53 mins       ██████████████████░░░░░░░   74.41% 
-Windows                  59 mins             ██████░░░░░░░░░░░░░░░░░░░   25.59%
+Windows                  1 hr 49 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 09/05/2026
+ Last Updated on 11/05/2026
 <!--END_SECTION:waka-->
 
 <!-- <div>
