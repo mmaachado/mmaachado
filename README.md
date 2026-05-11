@@ -1,4 +1,10 @@
-<h1 align="center"> Marcelo Machado </h1> <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/mmaachado.png" alt="TryHackMe"> -->
+<h1 align="center"> Marcelo Machado </h1> 
+<div align="center">
+  <a href="https://vaultsofparnassus.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/marcelo-machado/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/intent/follow?screen_name=0x6d61727175657&tw_p=followbutton" target="_blank"><img alt="X" src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+<!--<img src="https://tryhackme-badges.s3.amazonaws.com/mmaachado.png" alt="TryHackMe">-->
+</div>
     
 <div align="center">
 <b>software engineer | cybersec researcher | linux evangelist </b>
@@ -9,13 +15,40 @@
 
 <p>
 
-My main knowledge in technologies are **Python** and **Node.js**. <br/>
+My main knowledge in technologies are **Python** and **Node.js**, but I'm also comfortable with **Rust** for GNU/Linux drivers development. <br/> <br />
 I'm currently working at my personal projects, researching solutions to facilitate my daily operations.
 </p>
 
-I use Arch btw!
+*I use Arch btw!*
 
 </div>
+
+---
+ 
+## Projects
+Check out my latest contributions to open source projects
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Project Name</th>
+      <th>Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Reviewer</td>
+      <td>FastAPI do Zero</td>
+      <td>Python, FastAPI, MKDocs, MarkDown</td>
+    </tr>
+    <tr>
+      <td>Developer</td>
+      <td>TUXEDO Control Center</td>
+      <td>Electron.js, Angular, C</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
