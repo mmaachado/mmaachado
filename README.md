@@ -39,12 +39,12 @@ Check out my latest contributions to open source projects
   <tbody>
     <tr>
       <td>Reviewer</td>
-      <td>FastAPI do Zero</td>
+      <td><a href="https://fastapidozero.dunossauro.com/estavel/" target="_blank">FastAPI do Zero</a></td>
       <td>Python, FastAPI, MKDocs, MarkDown</td>
     </tr>
     <tr>
       <td>Developer</td>
-      <td>TUXEDO Control Center</td>
+      <td><a href="https://www.tuxedocomputers.com/en/TUXEDO-Control-Center-TCC.tuxedo" target="_blank">TUXEDO Control Center</a></td>
       <td>Electron.js, Angular, C</td>
     </tr>
   </tbody>
