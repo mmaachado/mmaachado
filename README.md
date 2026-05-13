@@ -1,6 +1,6 @@
 <h1 align="center"> Marcelo Machado </h1> 
 <div align="center">
-  <a href="https://vaultsofparnassus.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" /></a>
+  <a href="https://vaultsofparnassus.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/marcelo-machado/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/intent/follow?screen_name=0x6d61727175657&tw_p=followbutton" target="_blank"><img alt="X" src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
 <!--<img src="https://tryhackme-badges.s3.amazonaws.com/mmaachado.png" alt="TryHackMe">-->
@@ -50,23 +50,6 @@ See my latest contributions to open source projects
     </tr>
   </tbody>
 </table>
-
----
-
-## Stack
-
-Check out what I'm using
-
-<div align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=rust&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-3BABC3.svg?&style=for-the-badge&logo=flask&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
-</div>
 
 ---
 
