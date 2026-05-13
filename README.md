@@ -57,37 +57,47 @@ See my latest contributions to open source projects
 <summary>my stats</summary>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-```text
-🌞 Morning    64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.17% 
-🌆 Daytime    198 commits    ███████████░░░░░░░░░░░░░░   46.92% 
-🌃 Evening    151 commits    █████████░░░░░░░░░░░░░░░░   35.78% 
-🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+**🐱 My Github Data** 
 
-```
-
-
+> 🏆 153 Contributions in the Year 2026
+ > 
+> 📦 1.0 MB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 13 Private Repositories  
+ > 
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 1 hr 25 mins        ███████████████████░░░░░░   78.29% 
-jsonc                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
-Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37% 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
+Markdown                 1 hr 21 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-Obsidian                 1 hr 25 mins        ███████████████████░░░░░░   78.26% 
-Zed                      23 mins             █████░░░░░░░░░░░░░░░░░░░░   21.74%
+Obsidian                 1 hr 21 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.0%
+Windows                  1 hr 21 mins        █████████████████████████   100.0%
 
 ```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   31.82% 
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
+
 
 
  Last Updated on 13/05/2026
