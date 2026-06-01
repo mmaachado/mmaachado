@@ -61,13 +61,13 @@ See my latest contributions to open source projects
 
 **🐱 My Github Data** 
 
-> 🏆 157 Contributions in the Year 2026
+> 🏆 160 Contributions in the Year 2026
  > 
 > 📦 1.0 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 13 Private Repositories  
  > 
@@ -77,30 +77,30 @@ See my latest contributions to open source projects
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 8 mins              █████████████████████████   100.0%
+Markdown                 30 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-Obsidian                 8 mins              █████████████████████████   100.0%
+Obsidian                 30 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.0%
+Windows                  30 mins             █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   31.82% 
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   30.43% 
+Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   26.09% 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
 
 ```
 
 
 
- Last Updated on 31/05/2026
+ Last Updated on 01/06/2026
 <!--END_SECTION:waka-->
 
 <!-- <div>
