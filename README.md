@@ -57,56 +57,18 @@ See my latest contributions to open source projects
 <summary>my stats</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
+```python
+From: 29 March 2023 - To: 23 July 2026
 
-> 🏆 150 Contributions in the Year 2026
- > 
-> 📦 992.6 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 6 Private Repositories  
- > 
-📊 **This Week I Spent My Time On** 
+Total Time: 1,171 hrs 39 mins
 
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Python                   3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   38.3% 
-Markdown                 3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   38.18% 
-TOML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.74% 
-Git Config               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.44% 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
-
-🔥 Editors: 
-Claude Code              3 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   42.56% 
-VS Code                  3 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   42.24% 
-Obsidian                 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.2%
-
-💻 Operating System: 
-Windows                  8 hrs 52 mins       █████████████████████████   100.0%
-
+Python                     593 hrs 53 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.97 %
+Markdown                   351 hrs 6 mins        ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.54 %
+HTML                       42 hrs 53 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.61 %
+TypeScript                 22 hrs 3 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.86 %
 ```
 
-**I Mostly Code in Python** 
-
-```text
-Python                   5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-
- Last Updated on 16/07/2026
 <!--END_SECTION:waka-->
 
 <!-- <div>
