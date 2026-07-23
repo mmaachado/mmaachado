@@ -7,19 +7,18 @@
 </div>
     
 <div align="center">
-<b>software engineer | cybersec researcher | linux evangelist </b>
-<br>
-<br>
+<b>software engineer | hacker | pythonista </b>
+<br/>
 
-<i>hello there! I'm a software engineer and ethical hacker. Feel free to call me Marquês or Marcs.</i>
-
+  <i>hello there! I'm a software engineer and ethical hacker. Feel free to call me **Marquês**.</i>
 <p>
+  
+I'm a prolific **Python** developer with **+600** hours dedicated in this language.
 
-My main knowledge in technologies are **Python** and **Node.js**, but I'm also comfortable with **Rust** for GNU/Linux drivers development. <br/> <br />
-I'm currently working at my personal projects, researching solutions to facilitate my daily operations.
+<br/>
+
+I'm currently working as fullstack developer/software engineer @ [Parter Trading](https://parter.com.br/), researching solutions to facilitate bussiness daily operations.
 </p>
-
-*I use Arch btw!*
 
 </div>
 
@@ -53,8 +52,11 @@ See my latest contributions to open source projects
 
 ---
 
-<details closed>    
-<summary>my stats</summary>
+<div align="center">
+  
+## Stats
+Check my current coding stats
+</div>
 
 <!--START_SECTION:waka-->
 
