@@ -1,21 +1,24 @@
-<h1 align="center"> Marcelo Machado </h1> 
+<h1 align="center"> Marcelo Machado </h1>
 <div align="center">
   <a href="https://vaultsofparnassus.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/marcelo-machado/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/intent/follow?screen_name=0x6d61727175657&tw_p=followbutton" target="_blank"><img alt="X" src="https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
-<!--<img src="https://tryhackme-badges.s3.amazonaws.com/mmaachado.png" alt="TryHackMe">-->
+</div>
+<div align="center">
+  <a href="https://wakatime.com/@1bda1681-3229-4221-b982-968a3af3700b"><img src="https://wakatime.com/badge/user/1bda1681-3229-4221-b982-968a3af3700b.svg" alt="Total time coded since Mar 29 2023" /></a>
 </div>
     
 <div align="center">
 <br/>
-<b>software engineer | hacker | pythonista </b>
+
+  <b>software engineer | hacker | pythonista </b>
 <br/>
 <br/>
 
   <i>hello there! I'm a software engineer and ethical hacker. Feel free to call me **Marquês**.</i>
 <p>
   
-I'm a prolific **Python** developer with **+600** hours dedicated in this language.
+I'm a prolific **Python** developer with **+800** hours dedicated in this language.
 
 <br/>
 
@@ -60,6 +63,10 @@ See my latest contributions to open source projects
 Check my current coding stats
 </div>
 
+<!-- <div align="left">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/mmaachado.png" alt="TryHackMe">
+</div> -->
+
 <!--START_SECTION:waka-->
 
 ```python
@@ -74,16 +81,3 @@ TypeScript                 22 hrs 3 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
-<!-- <div>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/mmaachado?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmaachado&hide=html,css,swift,ruby&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=10&theme=transparent&title_color=4a86d1&custom_title=favourite%20languages"
-       alt="most used languages" align="right"></a>
-     <a target="_blank" rel="noopener noreferrer" href="https://wakatime.com/@mmachado"><img width="400rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=mmachado&theme=transparent&hide_border=true&hide=markdown,html,css,text,other,yaml,json,prolog,dart,docker,xml,gitconfig,TSQL&hide_title=true&line_height=50&langs_count=4&layout=default" alt="wakatime stats" align="left" /></a> 
-        
-
-</div>
-
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computer-illustration.png"> -->
-<!-- [![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/anticodingclub) -->
-
-</details>
