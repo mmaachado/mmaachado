@@ -7,7 +7,9 @@
 </div>
     
 <div align="center">
+<br/>
 <b>software engineer | hacker | pythonista </b>
+<br/>
 <br/>
 
   <i>hello there! I'm a software engineer and ethical hacker. Feel free to call me **Marquês**.</i>
