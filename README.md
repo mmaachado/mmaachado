@@ -18,11 +18,11 @@
   <i>hello there! I'm a software engineer and ethical hacker. Feel free to call me **Marquês**.</i>
 <p>
   
-I'm a prolific **Python** developer with **+800** hours dedicated in this language.
+I'm a prolific **Python** developer with **_+800_** hours dedicated in it's ecosystem.
 
 <br/>
 
-I'm currently working as fullstack developer/software engineer @ [Parter Trading](https://parter.com.br/), researching solutions to facilitate bussiness daily operations.
+I'm currently working as a software engineer @ [Parter Trading](https://parter.com.br/), researching solutions to facilitate bussiness daily operations.
 </p>
 
 </div>
@@ -60,7 +60,7 @@ See my latest contributions to open source projects
 <div align="center">
   
 ## Stats
-Check my current coding stats
+Check my last 7 days coding stats
 </div>
 
 <!-- <div align="left">
