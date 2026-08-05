@@ -52,6 +52,11 @@ See my latest contributions to open source projects
       <td><a href="https://www.tuxedocomputers.com/en/TUXEDO-Control-Center-TCC.tuxedo" target="_blank">TUXEDO Control Center</a></td>
       <td>Electron.js, Angular, C</td>
     </tr>
+    <tr>
+      <td>Developer</td>
+      <td><a href="https://django-shadcn.vercel.app/" target="_blank">django-shadcn/ui</a></td>
+      <td>Python, Django, Alpine.js, TailwindCSS, django-cotton, PyPI</td>
+    </tr>
   </tbody>
 </table>
 
