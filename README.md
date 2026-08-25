@@ -17,7 +17,8 @@
 
   <i>hello there! I'm a software engineer and ethical hacker. Feel free to call me **Marquês**.</i>
 <p>
-  
+
+I'm a prolific Python developer with +<!--wr:lang_hours:Python:floor50--><!--/wr--> hours.
 I'm a prolific **Python** developer with **_+800_** hours dedicated in it's ecosystem.
 
 <br/>
