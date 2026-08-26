@@ -19,7 +19,7 @@
 
 <p>
 
-I'm a prolific **Python** developer with <!--wr:lang_hours:Python:floor50-->+600<!--/wr--> hours dedicated in it's ecosystem.
+I'm a prolific **Python** developer with <!--wr:lang_hours:Python:floor10-->+800<!--/wr--> hours dedicated in it's ecosystem.
 
 <br/>
 
@@ -85,12 +85,6 @@ Check my last 7 days coding stats
 
 <!--wr:activity_chart:last_7_days-->
 ```markdown
-Total Time: 10 hrs
-
-Python         2 hrs 1 min           ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.30 %
-HTML           1 hr 46 mins          ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.73 %
-Bash           36 mins               ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.01 %
-TOML           26 mins               ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.46 %
-JavaScript     12 mins               ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.09 %
+Total Time: 0 hrs
 ```
 <!--/wr-->
