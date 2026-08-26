@@ -1,32 +1,38 @@
-name: Wakatime Readme
+name: 'Refresh README metrics'
 
+on:
+  schedule:
+    # 03:00 UTC daily. Pick an odd minute; the top of the hour is the
+    # busiest slot on GitHub's shared cron queue and gets delayed most.
+    - cron: '17 3 * * *'
+  # Lets you run it once by hand instead of waiting for the first cron.
+  workflow_dispatch:
+
+# The action commits through the Contents API, so it needs write here.
+# Nothing else is granted, and GitHub signs the commit the workflow's own
+# token makes, so it lands Verified.
 permissions:
   contents: write
 
-on:
-  # for manual workflow trigger
-  workflow_dispatch:
-  schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
-
 jobs:
-  update-readme:
+  refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: mmaachado/wakatime-readme@v1
         with:
+          # Only needed if the file uses WakaTime placeholders. Get the
+          # key at https://wakatime.com/api-key and store it as a
+          # repository secret; it is sent as an Authorization header and
+          # never appears in a URL or a log line.
           wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
-          
-          ### content
-          # SHOW_TITLE: false # optional
-          # SECTION_NAME: waka # optional
-          # BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
-          # CODE_LANG: markdown # optional
-          # TIME_RANGE: last_7_days # optional
-          # LANG_COUNT: 5 # optional
-          # SHOW_TIME: true # optional
-          # SHOW_TOTAL: true # optional
-          # SHOW_MASKED_TIME: false # optional
-          # STOP_AT_OTHER: false # optional
-          # IGNORED_LANGUAGES: Binary YAML JSON TOML # optional
+
+          # Everything below is optional and shown at its default.
+          # readme_path: 'README.md'
+          # time_range: 'all_time'
+          # lang_count: '5'
+          ignored_languages: 'Markdown'
+          # commit_message: 'chore: refresh README metrics'
+
+          # Turn on while you are still adjusting placeholders: it prints
+          # what each one would resolve to and writes nothing.
+          # dry_run: 'true'
