@@ -30,7 +30,7 @@ jobs:
           # readme_path: 'README.md'
           # time_range: 'all_time'
           # lang_count: '5'
-          ignored_languages: 'Markdown'
+          ignored_languages: 'Markdown HTML TOML'
           # commit_message: 'chore: refresh README metrics'
 
           # Turn on while you are still adjusting placeholders: it prints
