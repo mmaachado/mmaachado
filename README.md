@@ -7,31 +7,34 @@
 <div align="center">
   <a href="https://wakatime.com/@1bda1681-3229-4221-b982-968a3af3700b"><img src="https://wakatime.com/badge/user/1bda1681-3229-4221-b982-968a3af3700b.svg" alt="Total time coded since Mar 29 2023" /></a>
 </div>
-    
+
 <div align="center">
 <br/>
 
-  <b>software engineer | hacker | pythonista </b>
+<b>software engineer | hacker | pythonista </b>
 <br/>
 <br/>
 
-  <i>hello there! I'm a software engineer and ethical hacker. Feel free to call me **Marquês**.</i>
+<i>hello there! I'm a software engineer and ethical hacker. Feel free to call me **Marquês**.</i>
+
 <p>
 
-I'm a prolific Python developer with +<!--wr:lang_hours:Python:floor50--><!--/wr--> hours.
-I'm a prolific **Python** developer with **_+800_** hours dedicated in it's ecosystem.
+I'm a prolific **Python** developer with <!--wr:lang_hours:Python:floor50-->**_+800_**<!--/wr--> hours dedicated in it's ecosystem.
 
 <br/>
 
 I'm currently working as a software engineer @ [Parter Trading](https://parter.com.br/), researching solutions to facilitate bussiness daily operations.
+
 </p>
 
 </div>
 
 <div align="center">
-  
+
 ## Projects
+
 See my latest contributions to open source projects
+
 </div>
 
 <table align="center">
@@ -69,25 +72,27 @@ See my latest contributions to open source projects
 ---
 
 <div align="center">
-  
+
 ## Stats
+
 Check my last 7 days coding stats
+
 </div>
 
 <!-- <div align="left">
   <img src="https://tryhackme-badges.s3.amazonaws.com/mmaachado.png" alt="TryHackMe">
 </div> -->
 
-<!--START_SECTION:waka-->
+<!--wr:activity_chart:last_7_days-->
 
 ```markdown
 Total Time: 10 hrs
 
-Markdown       4 hrs 30 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.03 %
-Python         2 hrs 1 min           ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.30 %
-HTML           1 hr 46 mins          ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.73 %
-Bash           36 mins               ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.01 %
-JavaScript     12 mins               ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.09 %
+Markdown 4 hrs 30 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 45.03 %
+Python 2 hrs 1 min ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 20.30 %
+HTML 1 hr 46 mins ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 17.73 %
+Bash 36 mins ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 06.01 %
+JavaScript 12 mins ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 02.09 %
 ```
 
-<!--END_SECTION:waka-->
+<!--/wr-->
