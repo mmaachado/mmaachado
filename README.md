@@ -46,6 +46,16 @@ See my latest contributions to open source projects
     </tr>
   </thead>
   <tbody>
+        <tr>
+      <td>Developer</td>
+      <td><a href="https://django-shadcn.vercel.app/" target="_blank">django-shadcn/ui</a></td>
+      <td>Python, Django, Alpine.js, TailwindCSS, django-cotton, PyPI</td>
+    </tr>
+    <tr>
+      <td>Developer</td>
+      <td><a href="https://mmaachado.github.io/wakatime-readme/latest/" target="_blank">wakatime-readme</a></td>
+      <td>Python, Docker, GitHub Actions</td>
+    </tr>
     <tr>
       <td>Reviewer</td>
       <td><a href="https://fastapidozero.dunossauro.com/estavel/" target="_blank">FastAPI do Zero</a></td>
@@ -56,16 +66,13 @@ See my latest contributions to open source projects
       <td><a href="https://www.tuxedocomputers.com/en/TUXEDO-Control-Center-TCC.tuxedo" target="_blank">TUXEDO Control Center</a></td>
       <td>Electron.js, Angular, C</td>
     </tr>
-    <tr>
-      <td>Developer</td>
-      <td><a href="https://django-shadcn.vercel.app/" target="_blank">django-shadcn/ui</a></td>
-      <td>Python, Django, Alpine.js, TailwindCSS, django-cotton, PyPI</td>
-    </tr>
-    <tr>
+        <tr>
       <td>Contributor</td>
       <td><a href="https://github.com/asiffer/mkdocs-shadcn" target="_blank">mkdocs-shadcn/ui</a></td>
       <td>Python, MKDocs, HTML, CSS, JavaScript, Markdown</td>
     </tr>
+
+
   </tbody>
 </table>
 
