@@ -35,4 +35,4 @@ jobs:
 
           # Turn on while you are still adjusting placeholders: it prints
           # what each one would resolve to and writes nothing.
-          # dry_run: 'true'
+          dry_run: 'true'
