@@ -19,7 +19,7 @@
 
 <p>
 
-I'm a prolific **Python** developer with <!--wr:lang_hours:Python:floor10-->+620<!--/wr--> hours dedicated in it's ecosystem.
+I'm a prolific **Python** developer with <!--wr:lang_hours:Python:floor10-->+890<!--/wr--> hours dedicated in it's ecosystem.
 
 <br/>
 
