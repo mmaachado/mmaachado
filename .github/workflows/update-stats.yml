@@ -4,7 +4,7 @@ on:
   schedule:
     # 03:00 UTC daily. Pick an odd minute; the top of the hour is the
     # busiest slot on GitHub's shared cron queue and gets delayed most.
-    - cron: '17 3 * * *'
+    - cron: '30 00 * * *'
   # Lets you run it once by hand instead of waiting for the first cron.
   workflow_dispatch:
 
@@ -31,8 +31,8 @@ jobs:
           # time_range: 'all_time'
           # lang_count: '5'
           ignored_languages: 'Markdown HTML TOML'
-          # commit_message: 'chore: refresh README metrics'
+          commit_message: 'bump: update README metrics'
 
           # Turn on while you are still adjusting placeholders: it prints
           # what each one would resolve to and writes nothing.
-          dry_run: 'true'
+          # dry_run: 'true'
