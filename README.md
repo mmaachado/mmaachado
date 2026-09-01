@@ -47,6 +47,11 @@ See my latest contributions to open source projects
   </thead>
   <tbody>
         <tr>
+      <td>Writer</td>
+      <td><a href="https://vaultsofparnassus.com/" target="_blank">Vaults of Parnassus (Blog)</a></td>
+      <td>Markdown, Hugo</td>
+    </tr>
+        <tr>
       <td>Developer</td>
       <td><a href="https://django-shadcn.vercel.app/" target="_blank">django-shadcn/ui</a></td>
       <td>Python, Django, Alpine.js, TailwindCSS, django-cotton, PyPI</td>
