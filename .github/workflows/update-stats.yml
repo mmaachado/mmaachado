@@ -4,7 +4,7 @@ on:
   schedule:
     # 03:00 UTC daily. Pick an odd minute; the top of the hour is the
     # busiest slot on GitHub's shared cron queue and gets delayed most.
-    - cron: '30 00 * * *'
+    - cron: '17 3 * * *'
   # Lets you run it once by hand instead of waiting for the first cron.
   workflow_dispatch:
 
