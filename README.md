@@ -23,7 +23,7 @@ I'm a prolific **Python** developer with <!--wr:lang_hours:Python:floor10-->+900
 
 <br/>
 
-I'm currently working as a software engineer @ [Parter Trading](https://parter.com.br/), researching solutions to facilitate bussiness daily operations.
+I'm currently working as a software engineer [@ParterResearch](https://github.com/ParterResearch), researching solutions to facilitate bussiness daily operations.
 
 </p>
 
