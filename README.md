@@ -23,7 +23,7 @@ I'm a prolific **Python** developer with <!--wr:lang_hours:Python:floor10-->+900
 
 <br/>
 
-I'm currently working as a software engineer [@ParterResearch](https://github.com/ParterResearch), researching solutions to facilitate bussiness daily operations.
+I'm currently working as a software engineer at [Parter Research](https://github.com/ParterResearch), building software, automation, AI and data solutions for the foreign trade and logistics ecosystem, turning problems from our daily operations into tools and products that can be used at scale.
 
 </p>
 
